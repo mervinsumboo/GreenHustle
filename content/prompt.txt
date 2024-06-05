@@ -1,0 +1,34 @@
+Please analyze the provided PDF file and understand the following necessary information:
+
+Account Information:
+
+the account holder's name.
+the account number.
+the statement date.
+
+Transactions:
+
+For each transaction, extract:
+Date of the transaction.
+Description of the transaction.
+Money out (amount spent).
+Money in (amount received).
+Balance after the transaction.
+
+Categorize each transaction into one of the following categories:
+Housing
+Transportation
+Utilities
+Food/Supplies
+Savings
+Entertainment
+Healthcare
+Insurance
+Personal care
+Debt
+Gifts
+Donations
+Clothing
+Identify a subcategory for each transaction based on the description provided in the PDF.
+
+Below is the data:
